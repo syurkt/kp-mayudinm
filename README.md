@@ -15,7 +15,7 @@
   <div class="container">
     <div class="product-card">
       <img src="gambar/keripik1.jpg" alt="Keripik Daun" />
-      <h3>Keripik Daun</h3>
+      <h3>Keripik SAJA</h3>
       <p>Keripik gurih dari daun pilihan. Cocok untuk camilan sehat!</p>
       <p><strong>Rp 8.000</strong></p>
       <a href="https://wa.me/6281218681524?text=Halo%20saya%20mau%20beli%20Keripik%20Daun" target="_blank">
