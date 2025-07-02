@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+BY MAYUDIN SHOP
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
