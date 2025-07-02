@@ -27,7 +27,7 @@
       <h3>Keripik Original</h3>
       <p>Renyah, gurih, dan bikin ketagihan. Tanpa bahan pengawet.</p>
       <p><strong>Rp 10.000</strong></p>
-      <a href="https://wa.me/6281234567890?text=Halo%20saya%20mau%20beli%20Keripik%20Original" target="_blank">
+      <a href="https://wa.me/6281218681524?text=Halo%20saya%20mau%20beli%20Keripik%20Daun" target="_blank">
         <button>Beli Sekarang</button>
       </a>
     </div>
@@ -36,7 +36,7 @@
       <h3>Keripik Balado</h3>
       <p>Pedas manis khas balado Padang, favorit semua kalangan.</p>
       <p><strong>Rp 12.000</strong></p>
-      <a href="https://wa.me/6281234567890?text=Halo%20saya%20mau%20beli%20Keripik%20Balado" target="_blank">
+      <a href="https://wa.me/6281218681524?text=Halo%20saya%20mau%20beli%20Keripik%20Daun" target="_blank">
         <button>Beli Sekarang</button>
       </a>
     </div>
@@ -45,7 +45,7 @@
       <h3>Keripik Ekstra Pedas</h3>
       <p>Level pedas ekstra untuk pecinta sensasi. Berani coba?</p>
       <p><strong>Rp 13.000</strong></p>
-      <a href="https://wa.me/6281234567890?text=Halo%20saya%20mau%20beli%20Keripik%20Ekstra%20Pedas" target="_blank">
+      <a href="https://wa.me/6281218681524?text=Halo%20saya%20mau%20beli%20Keripik%20Daun" target="_blank">
         <button>Beli Sekarang</button>
       </a>
     </div>
